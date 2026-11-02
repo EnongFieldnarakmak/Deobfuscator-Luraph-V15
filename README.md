@@ -1,6 +1,5 @@
 # Luraph v15 Deobfuscator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![Target](https://img.shields.io/badge/Target-Luraph%20v15-red.svg)](https://lura.ph/)
 
